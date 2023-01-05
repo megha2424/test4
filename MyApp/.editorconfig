@@ -1,0 +1,18 @@
+# Code files
+
+# top-most EditorConfig file
+root = true
+
+
+# Don't use tabs for indentation.
+[*.cs]
+indent_style = space
+
+indent_size = 4
+tab_width = 2
+insert_final_newline = true
+
+# JSON files
+[*.json]
+indent_size = 2
+
